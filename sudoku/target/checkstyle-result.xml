@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="C:\IS\sudoku\src\main\java\Grille.java">
+<error line="0" severity="error" message="Manquant fichier package-info.java." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+</file>
+<file name="C:\IS\sudoku\src\main\java\GrilleImpl.java">
+<error line="9" column="26" severity="error" message="La variable &apos;grille&apos; devrait être privée et avoir des accesseurs." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="97" column="14" severity="error" message="L&apos;expression peut être simplifiée." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="144" column="22" severity="error" message="L&apos;expression peut être simplifiée." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="164" column="14" severity="error" message="L&apos;expression peut être simplifiée." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="172" column="7" severity="error" message="Le test peut être supprimé et l&apos;expression directement retournée." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanReturnCheck"/>
+</file>
+</checkstyle>
